@@ -1,5 +1,5 @@
 title: Cheeseballs Portfolio
 description: Page dedicated to my side projects, experience, and getting to know me!
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
